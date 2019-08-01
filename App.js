@@ -70,6 +70,7 @@ class FormBookTicket extends React.Component{
                                     <option value="kandy">Kandy</option>
                                     <option value="colombo">Colombo</option>
                                     <option value="gampaha">Gampaha</option>
+                                    <option value="matara">Matara</option>
                                 </select>
                             </td>
                         </tr>
